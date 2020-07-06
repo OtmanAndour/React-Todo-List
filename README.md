@@ -1,3 +1,8 @@
+This is my first project using React.
+
+It is a Todo list, following the React JS Crash Course of Traversy Media on Youtube
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
